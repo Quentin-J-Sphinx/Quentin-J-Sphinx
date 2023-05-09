@@ -3,7 +3,7 @@
 |[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=8444F7&vCenter=true&width=175&lines=%23Promo)](https://git.io/typing-svg)|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=EEF753&vCenter=true&width=175&lines=Sphinx)](https://git.io/typing-svg)
 |------------------------|--------------|
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quentin-J-Sphinx)](https://github.com/Quentin-J-Sphinx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quentin-J-Sphinx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Quentin-J-Sphinx/Quentin-J-Sphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
