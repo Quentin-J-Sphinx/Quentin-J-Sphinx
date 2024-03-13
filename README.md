@@ -1,6 +1,6 @@
 # Quentin_J
 
-|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=8444F7&vCenter=true&width=175&lines=%23Quentin)](https://git.io/typing-svg)|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=EEF753&vCenter=true&width=175&lines=JANOWSZIK)](https://git.io/typing-svg)
+|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=8444F7&vCenter=true&width=200&lines=%23Quentin)](https://git.io/typing-svg)|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=EEF753&vCenter=true&width=200&lines=JANOWSZIK)](https://git.io/typing-svg)
 |------------------------|--------------|
 
 <!--
