@@ -1,8 +1,9 @@
-<!--# Quentin_J
+# Quentin_J
 
-|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=8444F7&vCenter=true&width=175&lines=%23Promo)](https://git.io/typing-svg)|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=EEF753&vCenter=true&width=175&lines=Sphinx)](https://git.io/typing-svg)
+|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=8444F7&vCenter=true&width=175&lines=%23Quentin)](https://git.io/typing-svg)|[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=45&duration=2500&pause=3000&color=EEF753&vCenter=true&width=175&lines=JANOWSZIK)](https://git.io/typing-svg)
 |------------------------|--------------|
 
+<!--
 **Quentin-J-Sphinx/Quentin-J-Sphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
